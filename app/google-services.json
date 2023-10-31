@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091693760411",
+    "project_id": "tablethotels-a3bb7",
+    "storage_bucket": "tablethotels-a3bb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091693760411:android:ae0bc2ccdfa6fa3c475b3e",
+        "android_client_info": {
+          "package_name": "ofek.yariv.tablethotels"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdVBaVpCrx2UcOT-dToKVE0Aksrr8sRsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

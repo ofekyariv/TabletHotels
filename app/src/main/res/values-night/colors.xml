@@ -1,0 +1,54 @@
+<resources>
+
+    <!-- Basic Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#80000000</color>
+    <color name="dark_red">#d22626</color>
+    <color name="blue">#005fff</color>
+    <color name="grey">#AAAAAA</color> <!-- Made a bit lighter for visibility on dark backgrounds -->
+
+    <!-- Primary theme colors -->
+    <color name="seed">#2b8fff</color>
+    <color name="md_theme_primary">#FFFFFF</color> <!-- Unchanged -->
+    <color name="md_theme_onPrimary">#000000</color> <!-- Text on primary color -->
+
+    <!-- Backgrounds and Containers -->
+    <color name="md_theme_primaryContainer">#FFFFFF</color>
+    <color name="md_theme_onPrimaryContainer">#2B323D</color>
+    <color name="md_theme_secondary">#FFFFFF</color>
+    <color name="md_theme_onSecondary">#2B323D</color>
+    <color name="md_theme_secondaryContainer">#FFFFFF</color>
+    <color name="md_theme_onSecondaryContainer">#2B323D</color>
+
+    <!-- Tertiary colors and their containers -->
+    <color name="md_theme_tertiary">#2b2b2b</color> <!-- Darker shade for night mode -->
+    <color name="md_theme_onTertiary">#FFFFFF</color> <!-- White text on dark tertiary color -->
+    <color name="md_theme_tertiaryContainer">#444444</color> <!-- Darker container for night mode -->
+    <color name="md_theme_onTertiaryContainer">#FFFFFF</color> <!-- Lighter text on dark tertiary container -->
+
+    <!-- Error colors -->
+    <color name="md_theme_error">#d22626</color>
+    <color name="md_theme_errorContainer">#882222</color>
+    <color name="md_theme_onError">#FFFFFF</color>
+    <color name="md_theme_onErrorContainer">#d22626</color>
+
+    <!-- Backgrounds for night mode -->
+    <color name="md_theme_background">#222222</color> <!-- Darker background for night mode -->
+    <color name="md_theme_onBackground">#FFFFFF</color> <!-- Lighter text on dark background -->
+    <color name="md_theme_surface">#2b2b2b</color> <!-- Dark surface for night mode -->
+    <color name="md_theme_onSurface">#FFFFFF</color> <!-- Light text on dark surface -->
+
+    <!-- Variants and other colors -->
+    <color name="md_theme_surfaceVariant">#383838</color>
+    <color name="md_theme_onSurfaceVariant">#FFFFFF</color>
+    <color name="md_theme_outline">#4A4739</color>
+    <color name="md_theme_inverseOnSurface">#2b2b2b</color>
+    <color name="md_theme_inverseSurface">#FFFFFF</color>
+    <color name="md_theme_inversePrimary">#FFFFFF</color> <!-- Unchanged -->
+    <color name="md_theme_shadow">#000000</color>
+    <color name="md_theme_surfaceTint">#FFFFFF</color>
+    <color name="md_theme_outlineVariant">#4A4739</color>
+    <color name="md_theme_scrim">#000000</color>
+
+</resources>
